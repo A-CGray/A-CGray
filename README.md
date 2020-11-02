@@ -1,6 +1,10 @@
+<!--
 # Welcome to Ali's github profile
 
 ## Howdy! 👋
+-->
+
+![banner](https://raw.githubusercontent.com/A-Gray-94/A-Gray-94/main/Images/GitHubProfileBanner.png)
 
 I'm Alasdair/Ali, a PhD Pre-Candidate at the University of Michigan's [MDO Lab](mdolab.engine.umich.edu).
 I'm interested in developing methods that might make high-fidelity MDO (multidisciplinary design optimisation) a practical tool for designing the next generation of highly flexible aircraft.
