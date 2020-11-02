@@ -6,7 +6,6 @@
 
 ![banner](https://raw.githubusercontent.com/A-Gray-94/A-Gray-94/main/Images/GitHubProfileBanner.png)
 <p align='center'>
-<a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/alasdaircgray/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
