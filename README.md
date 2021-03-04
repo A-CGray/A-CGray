@@ -11,6 +11,8 @@
 
 ## Howdy! 👋
 
+![](https://komarev.com/ghpvc/?username=A-Gray-94&color=blue)
+
 I'm Alasdair/Ali, a PhD Pre-Candidate at the University of Michigan's [MDO Lab](http://mdolab.engin.umich.edu).
 I'm interested in developing methods that might make high-fidelity MDO (multidisciplinary design optimisation) a practical tool for designing the next generation of highly flexible aircraft.
 
