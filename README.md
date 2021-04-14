@@ -38,3 +38,6 @@ Here are some ideas to get you started:
 
 [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=A-Gray-94)](https://github.com/anuraghazra/github-readme-stats)
 [![Ali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ACGray)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
