@@ -4,14 +4,14 @@
 
 -->
 
-![banner](https://raw.githubusercontent.com/A-Gray-94/A-Gray-94/main/Images/GitHubProfileBanner.png)
+![banner](https://raw.githubusercontent.com/A-CGray/A-CGray/main/Images/GitHubProfileBanner.png)
 <p align='center'>
 <a href="https://www.linkedin.com/in/alasdaircgray/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 ## Howdy! 👋
 
-![](https://komarev.com/ghpvc/?username=A-Gray-94&color=blue)
+![](https://komarev.com/ghpvc/?username=A-CGray&color=blue)
 
 I'm Alasdair/Ali, a PhD Pre-Candidate at the University of Michigan's [MDO Lab](http://mdolab.engin.umich.edu).
 I'm interested in developing methods that might make high-fidelity MDO (multidisciplinary design optimisation) a practical tool for designing the next generation of highly flexible aircraft.
@@ -21,7 +21,7 @@ For example, in my [MSc thesis](http://resolver.tudelft.nl/uuid:1a6b5001-d213-40
 Watch This space for more publications on this research coming soon!
 
 <!--
-**A-Gray-94/A-Gray-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A-CGray/A-CGray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Ali's github stats](https://github-readme-stats.vercel.app/api?username=A-Gray-94)](https://github.com/anuraghazra/github-readme-stats)
+[![Ali's github stats](https://github-readme-stats.vercel.app/api?username=A-CGray)](https://github.com/anuraghazra/github-readme-stats)
 [![Ali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ACGray)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -110,7 +110,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/A-Gray-94/A-Gray-94/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/A-CGray/A-CGray/main/charts/bar_graph.png) 
 
 
  Last Updated on 10/10/2021
