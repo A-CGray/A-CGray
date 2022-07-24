@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   </summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C529%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11%20Million%20lines%20of%20code-blue)
 
@@ -79,18 +79,16 @@ Sunday       38 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 mins              █████████████████████░░░░   84.25% 
-Text                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-airbus-UM-install        9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -111,6 +109,6 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/A-CGray/A-CGray/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/07/2022 02:05:48 UTC
+ Last Updated on 24/07/2022 01:55:23 UTC
 <!--END_SECTION:waka-->
 </details>
