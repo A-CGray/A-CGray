@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   </summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11%20Million%20lines%20of%20code-blue)
 
@@ -117,6 +117,6 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/A-CGray/A-CGray/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 02:03:00 UTC
+ Last Updated on 04/09/2022 02:07:26 UTC
 <!--END_SECTION:waka-->
 </details>
