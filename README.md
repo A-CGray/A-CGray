@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   </summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11%20Million%20lines%20of%20code-blue)
 
@@ -79,24 +79,16 @@ Sunday       38 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 59 mins       ████████████░░░░░░░░░░░░░   47.62% 
-TeX                      1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   28.06% 
-Markdown                 1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   20.9% 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 16 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-HighOrderPanelMethod     2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   39.22% 
-61490e61196f046685f0ad69 1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   28.08% 
-NERS570                  1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   24.18% 
-FEMpy                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.89% 
-CHAD                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    6 hrs 16 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -117,6 +109,6 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/A-CGray/A-CGray/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 02:07:26 UTC
+ Last Updated on 11/09/2022 01:59:58 UTC
 <!--END_SECTION:waka-->
 </details>
