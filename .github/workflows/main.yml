@@ -10,25 +10,18 @@ on:
     - cron: '0 0 * * 0'
   workflow_dispatch:
 jobs:
-  # update-readme:
-  #   name: Update Readme with Metrics
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - uses: anmol098/waka-readme-stats@master
-  #       with:
-  #         WAKATIME_API_KEY: ${{ secrets.WAKATIME_KEY }}
-  #         GH_TOKEN: ${{ secrets.GH_TOKEN }}
-  #         SHOW_PROFILE_VIEWS: "False"
-  #         SHOW_LINES_OF_CODE: "True"
-  #         SHOW_COMMIT: "True"
-  #         SHOW_DAYS_OF_WEEK: "True"
-  #         SHOW_SHORT_INFO: "False"
-  #         SHOW_LOC_CHART: "False"
-  #         SHOW_TIMEZONE: "False"
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_TIMEZONE: "False"

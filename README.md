@@ -44,12 +44,4 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```txt
-Python       26 hrs 44 mins  █████████████████████▒░░░   85.35 %
-Other        2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-Bash         1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-C++          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-```
-
 <!--END_SECTION:waka-->
